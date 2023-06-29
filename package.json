@@ -1,0 +1,14 @@
+{
+  "name": "demoqa-automation",
+  "version": "1.0.0",
+  "description": "This is to practice cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.16.0"
+  }
+}
